@@ -1,7 +1,9 @@
-name: macOS
+spoken
+name:spoken
+macOSlenguas
 on:
   push:
-    paths-ignore:
+    
       - 'doc/**'
       - '**/man'
       - '**.md'
